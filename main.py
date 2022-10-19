@@ -23,8 +23,8 @@ WORDS_TO_STRIP = [
 
 
 
-my_api_key = "AIzaSyAlq_YIrc48RheVReuO_gdGxjuWZVgp-sI"
-my_cse_id = "017443262401049596954:bxztx4rhphm"
+my_api_key = ""  #use your api key
+my_cse_id =  ""  #use your cse id
 
 def get_question():
         # part of the screen
